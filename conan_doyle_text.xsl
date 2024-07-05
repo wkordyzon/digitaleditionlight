@@ -72,11 +72,16 @@
     </xsl:template>
 
     <xsl:template match="tei:a">
-<a><xsl:apply-templates/></a>
-
-
+        <a>
+        <xsl:apply-templates/></a>
     </xsl:template>
     
+    <xsl:template match="tei:hi[@rend="sup"]">
+        <sup>
+        <xsl:apply-templates/>
+        </sup>
+    </xsl:template>
+
     <!-- add additional templates below, for example to transform the tei:l in <br/> empty elements, tei:hi[@rend = 'sup'] in <sup> elements, the underlined text, additions with the attribute "overwritten" etc. -->
 
     
