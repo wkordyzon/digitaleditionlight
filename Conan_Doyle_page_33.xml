@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The adventure of the Norwood builder</title>
+            <author>Arthur Conan Doyle</author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <seriesStmt>
+            <title>DH Summerschool - Antwerp 2024</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur
+                  Conan Doyle</author><respStmt>
+                  <resp>Writer</resp>
+                  <name>Arthur Conan Doyle</name>
+               </respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg
+                  Collection of English and American Literature, The New York Public Library. (1881
+                  - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood
+                  builder. Holograph Retrieved from
+                  https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5301" lry="7115" xml:id="facs_33">
+         <graphic url="0033_033_15r.jpeg" width="5301px" height="7115px"/>
+         <graphic
+            url="https://files.transkribus.eu/Get?id=JGIHQTTAIUHDGBWSBGJVJYYF&amp;fileType=view"
+            width="5301px" height="7115px"/>
+         <zone points="4571,317 4989,317 4989,635 4571,635" rendition="TextRegion"
+            xml:id="facs_33_r" subtype="page-number">
+            <zone points="4641,286 4830,286 4830,547 4641,547" rendition="Line"
+               xml:id="facs_33_tr_1_tl_1"/>
+         </zone>
+         <zone points="191,413 5091,413 5091,6750 191,6750" rendition="TextRegion"
+            xml:id="facs_33_tr_1" subtype="paragraph">
+            <zone points="1883,899 2339,899 2339,1239 1883,1239" rendition="Line"
+               xml:id="facs_33_tr_1_tl_2"/>
+            <zone points="759,1136 4344,1136 4344,1494 759,1494" rendition="Line"
+               xml:id="facs_33_tr_1_tl_3"/>
+            <zone points="158,1385 5012,1385 5012,1665 158,1665" rendition="Line"
+               xml:id="facs_33_tr_1_tl_4"/>
+            <zone points="2479,1689 2782,1689 2782,1835 2479,1835" rendition="Line"
+               xml:id="facs_33_tr_1_tl_5"/>
+            <zone points="200,1701 5085,1701 5085,2066 200,2066" rendition="Line"
+               xml:id="facs_33_tr_1_tl_6"/>
+            <zone points="182,2017 4538,2017 4538,2333 182,2333" rendition="Line"
+               xml:id="facs_33_tr_1_tl_7"/>
+            <zone points="194,2333 4866,2333 4866,2637 194,2637" rendition="Line"
+               xml:id="facs_33_tr_1_tl_8"/>
+            <zone points="194,2624 4653,2624 4653,2983 194,2983" rendition="Line"
+               xml:id="facs_33_tr_1_tl_9"/>
+            <zone points="219,2965 4957,2965 4957,3262 219,3262" rendition="Line"
+               xml:id="facs_33_tr_1_tl_10"/>
+            <zone points="3086,3147 3511,3147 3511,3323 3086,3323" rendition="Line"
+               xml:id="facs_33_tr_1_tl_11"/>
+            <zone points="219,3238 4994,3238 4994,3445 219,3445" rendition="Line"
+               xml:id="facs_33_tr_1_tl_12"/>
+            <zone points="219,3505 5073,3505 5073,3797 219,3797" rendition="Line"
+               xml:id="facs_33_tr_1_tl_13"/>
+            <zone points="219,3845 5048,3845 5048,4143 219,4143" rendition="Line"
+               xml:id="facs_33_tr_1_tl_14"/>
+            <zone points="194,4131 5018,4131 5018,4392 194,4392" rendition="Line"
+               xml:id="facs_33_tr_1_tl_15"/>
+            <zone points="213,4465 5030,4465 5030,4702 213,4702" rendition="Line"
+               xml:id="facs_33_tr_1_tl_16"/>
+            <zone points="2880,4623 4532,4623 4532,4830 2880,4830" rendition="Line"
+               xml:id="facs_33_tr_1_tl_17"/>
+            <zone points="255,4745 5048,4745 5048,5054 255,5054" rendition="Line"
+               xml:id="facs_33_tr_1_tl_18"/>
+            <zone points="213,5048 4738,5048 4738,5297 213,5297" rendition="Line"
+               xml:id="facs_33_tr_1_tl_19"/>
+            <zone points="826,5212 1160,5212 1160,5425 826,5425" rendition="Line"
+               xml:id="facs_33_l_1423"/>
+            <zone points="243,5310 4726,5310 4726,5662 243,5662" rendition="Line"
+               xml:id="facs_33_tr_1_tl_20"/>
+            <zone points="243,5522 4830,5522 4830,5899 243,5899" rendition="Line"
+               xml:id="facs_33_tr_1_tl_21"/>
+            <zone points="225,5862 4672,5862 4672,6215 225,6215" rendition="Line"
+               xml:id="facs_33_tr_1_tl_22"/>
+            <zone points="261,6251 4963,6251 4963,6464 261,6464" rendition="Line"
+               xml:id="facs_33_tr_1_tl_23"/>
+            <zone points="207,6464 5048,6464 5048,6853 207,6853" rendition="Line"
+               xml:id="facs_33_tr_1_tl_24"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_33" n="33" xml:id="img_0033"/>
+            
+            <p facs="#facs_33_tr_1">
+               <l facs="#facs_33_tr_1_tl_3" n="N001">I set myself to <del><hi
+                        style="text-decoration: line-through;">do so</hi></del><add
+                     facs="#facs_33_tr_1_tl_2">copy it</add>, and you can
+                  imagine my</l>
+               <l facs="#facs_33_tr_1_tl_4" n="N002">astonishment when I found that with some
+                  reservations he had</l>
+               <l facs="#facs_33_tr_1_tl_6" n="N003">left all his property to me. He <del><hi
+                        style="text-decoration: line-through;">is</hi></del><add
+                     facs="#facs_33_tr_1_tl_5">was</add> a strange little
+                  ferret-like man</l>
+               <l facs="#facs_33_tr_1_tl_7" n="N004">with white eyelashes, and when I looked up at
+                  him <del><hi style="text-decoration: line-through;">with</hi></del></l>
+               <l facs="#facs_33_tr_1_tl_8" n="N005"><del><hi style="text-decoration: line-through;"
+                        >amazement</hi></del> I found his keen grey eyes fixed upon me with a</l>
+               <l facs="#facs_33_tr_1_tl_9" n="N006"><del><hi style="text-decoration: line-through;"
+                        >most curious expression which certainly seemed to me to be</hi></del></l>
+               <l facs="#facs_33_tr_1_tl_10" n="N007"><del><hi
+                        style="text-decoration: line-through;">more threatening than
+                     benevolent</hi></del> an amused expression. I</l>
+               <l facs="#facs_33_tr_1_tl_12" n="N008">could hardly believe my own senses as I
+                        <del><hi style="text-decoration: line-through;">looked at</hi></del><add
+                     facs="#facs_33_tr_1_tl_11">read</add> the terms of the
+                  will</l>
+               <l facs="#facs_33_tr_1_tl_13" n="N009">but he explained that he was a bachelor with
+                  hardly any living relation</l>
+               <l facs="#facs_33_tr_1_tl_14" n="N010">that he had known ny parents in his youth and
+                  that he had always</l>
+               <l facs="#facs_33_tr_1_tl_15" n="N011">heard of me as a very deserving young man and
+                  was assured that</l>
+               <l facs="#facs_33_tr_1_tl_16" n="N012">his money would be in worthy hands. Of course
+                  I could only stammer</l>
+               <l facs="#facs_33_tr_1_tl_18" n="N013">out my thanks. The will was duly finished
+                        <del><hi style="text-decoration: line-through;">and</hi></del> signed<add
+                     facs="#facs_33_tr_1_tl_17"> and expressed by my
+                     clerk</add>. This is it</l>
+               <l facs="#facs_33_tr_1_tl_19" n="N014">on the blue graper and these slips, as I have
+                  explained, are the</l>
+               <l facs="#facs_33_tr_1_tl_20" n="N015">rough <del><hi
+                        style="text-decoration: line-through;">draught</hi></del><add
+                     facs="#facs_33_l_1423" n="N019">draft</add>. <choice>
+                     <expan>Mister</expan>
+                     <abbr>Mr.</abbr>
+                  </choice> Jonas Oldacre then informed me that</l>
+               <l facs="#facs_33_tr_1_tl_21" n="N016">there were a number of documents, building
+                  leases, title deeds,</l>
+               <l facs="#facs_33_tr_1_tl_22" n="N017">mortgages, <unclear>scrip</unclear> and so
+                  forth which it was necessary that I</l>
+               <l facs="#facs_33_tr_1_tl_23" n="N018">should see and understand. He said that his
+                  mind would not be</l>
+               <l facs="#facs_33_tr_1_tl_24" n="N019">easy until the whole thing was settled and he
+                  begged me to come out to</l></p>
+         </div>
+      </body>
+   </text>
+</TEI>
